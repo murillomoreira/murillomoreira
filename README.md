@@ -1,13 +1,11 @@
 
-<h1 align='center'>Olá! Bem vindo ao meu peril no Git Hub👋</h1>
+<h1 align='center'>Olá! Bem vindo ao meu perfil no Git Hub👋</h1>
 <p align='venter'>  
     Desenvolvedor web 
 </p>
 
 ## UM POUCO SOBRE MIM
-<p>Me Chamo Murillo Moreira tenho 26 anos, sou formado como Tecnólogo em Redes de Computadores pela Universidade Estadual de Goiás e possuo pós graduação em Projetos de Cloud Computing pela Descomplica.
-Sou apaixonado por tecnologia e a tenho como principal objeto de estudo desde os 17 anos.
-Possuo conhecimento em servidores, cloud e virtualização e no momento estou estudando programação como foco em front-end </p>
+<p>Me Chamo Murillo Moreira tenho 26 anos, sou formado como Tecnólogo em Redes de Computadores pela Universidade Estadual de Goiás e possuo pós graduação em Projetos de Cloud Computing pela Descomplica. Sou apaixonado por tecnologia e a tenho como principal objeto de estudo desde os 17 anos. Possuo conhecimento em servidores, cloud e virtualização e no momento estou estudando programação como foco em front-end </p>
 
 <div align="center">
  <h1 align="center">Algumas Skills</h1>
@@ -37,12 +35,6 @@ Possuo conhecimento em servidores, cloud e virtualização e no momento estou es
  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </p>
-
-
-
-
-
-
 
 <!--
 **murillomoreira/murillomoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
