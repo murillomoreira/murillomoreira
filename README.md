@@ -16,7 +16,7 @@ Possuo conhecimento em servidores, cloud e virtualização e no momento estou es
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-<p><a href ="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={murillomoreira}&theme={tokyonight}&exclude={exclude}" ></p>    
+<a href ="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={murillomoreira}&theme={tokyonight}&exclude={exclude}" ></a>   
 
 <p align='center'>
   
