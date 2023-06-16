@@ -4,7 +4,7 @@
 </p>
 
 ## UM POUCO SOBRE MIM
-<p> Me Chamo Murillo Moreira tenho 26 anos, sou formado como Tecnólogo em Redes de Computadores pela Universidade Estadual de Goiás e possuo pós graduação em Projetos de Cloud Computing pela Descomplica. Sou apaixonado por tecnologia e a tenho como principal objeto de estudo desde os 17 anos. Possuo conhecimento em servidores, cloud e virtualização e no momento estou estudando programação como foco em front-end </p>
+<p> Me Chamo Murillo Moreira tenho 26 anos, sou formado como Tecnólogo em Redes de Computadores pela Universidade Estadual de Goiás e possuo pós graduação em Projetos de Cloud Computing pela Descomplica. Sou apaixonado por tecnologia e a tenho como principal objeto de estudo desde os 17 anos. Possuo conhecimento em servidores, cloud e virtualização e no momento estou estudando programação com foco em front-end </p>
 
 <div align="center">
      <h1 align="center">Algumas Skills</h1>
