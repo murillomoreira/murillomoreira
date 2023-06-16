@@ -3,11 +3,11 @@
  Aspirante a Desenvolvedor web 
 </p>
 
-## UM POUCO SOBRE MIM
-<p> Me Chamo Murillo Moreira tenho 26 anos, sou formado como Tecnólogo em Redes de Computadores pela Universidade Estadual de Goiás e possuo pós graduação em Projetos de Cloud Computing pela Descomplica. Sou apaixonado por tecnologia e a tenho como principal objeto de estudo desde os 17 anos. Possuo conhecimento em servidores, cloud e virtualização e no momento estou estudando programação com foco em front-end </p>
+<h1 align='center'> UM POUCO SOBRE MIM </h1>
+<p align='center'> Me Chamo Murillo Moreira tenho 26 anos, sou formado como Tecnólogo em Redes de Computadores pela Universidade Estadual de Goiás e possuo pós graduação em Projetos de Cloud Computing pela Descomplica. Sou apaixonado por tecnologia e a tenho como principal objeto de estudo desde os 17 anos. Possuo conhecimento em servidores, cloud e virtualização e no momento estou estudando programação com foco em front-end </p>
 
 <div align="center">
-     <h1 align="center">Algumas Skills</h1>
+     <h1 align="center">Skills</h1>
         <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
