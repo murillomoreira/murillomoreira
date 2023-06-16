@@ -5,6 +5,7 @@
 
 ## UM POUCO SOBRE MIM
 <p> Me Chamo Murillo Moreira tenho 26 anos, sou formado como Tecnólogo em Redes de Computadores pela Universidade Estadual de Goiás e possuo pós graduação em Projetos de Cloud Computing pela Descomplica. Sou apaixonado por tecnologia e a tenho como principal objeto de estudo desde os 17 anos. Possuo conhecimento em servidores, cloud e virtualização e no momento estou estudando programação como foco em front-end </p>
+
 <div align="center">
      <h1 align="center">Algumas Skills</h1>
         <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,24 +14,17 @@
         <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 <br>
-<br>
-<br>
 <hr>
   <p align='center'>
       <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=murillomoreira&show_icons=true&count_private=true&theme=dark" width="350"></a>
   </p>
     <br>
-    <br>
-    <br>
     <hr>
-
 <p align='center'>
-  
  <a href = "mailto:ppmurillomoreira@gmail.com">
  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
  <a href="https://www.linkedin.com/in/murillo-moreira-121970144/" target="_blank">
- <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+ <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </p>
 
 <!--
