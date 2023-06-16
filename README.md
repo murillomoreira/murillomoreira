@@ -15,12 +15,12 @@ Possuo conhecimento em servidores, cloud e virtualização e no momento estou es
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-    <p align='center'>
-      <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=murillomoreira&show_icons=true&count_private=true&theme=dark" width="350"></a>
-    </p>
 </div>
 
+  <p align='center'>
+      <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=murillomoreira&show_icons=true&count_private=true&theme=dark" width="350"></a>
+    </p>
+    
 <p align='center'>
   
  <a href = "mailto:ppmurillomoreira@gmail.com">
